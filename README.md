@@ -1,6 +1,7 @@
+[![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)](https://ww38.rishavchanda.io/)
 <h1 align="center">Hi 👋, I'm Tushar Dupare</h1>
 <h3 align="center">Passionate Data Scientist | Expertise in Machine Learning, Data Analysis, and Visualization</h3>
-<img align="right" alt="data" width="400" src="https://www.freepik.com/free-vector/data-extraction-concept-illustration_12079896.htm#fromView=search&page=1&position=18&uuid=b56f5cc8-09f6-4450-8b00-1dea0e03adad">
+<img align="right" alt="data" width="400" src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushard48&label=Profile%20views&color=0e75b6&style=flat" alt="tushard48" /> </p>
